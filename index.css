@@ -1,0 +1,52 @@
+body{
+    color:black;
+    background-color: black;
+    text-align: center;
+}
+#quotes{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(48, 230, 154);
+    height: 300px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+#author{
+    color: white;
+    
+}
+#newq{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 100px;
+
+}
+#tweetme{
+    background-color: black;
+    color: aliceblue;
+    height: 50px;
+    width: 100px;
+}
+.bb{
+    color: white;
+}
+#facebook{
+    
+    background-color: black;
+    color: aliceblue;
+    height: 50px;
+    width: 100px;
+}
+
+#instagram{
+    
+    background-color: black;
+    color: aliceblue;
+    height: 50px;
+    width: 100px;
+}
